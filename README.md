@@ -1,3 +1,11 @@
+TODO for run solving job quest:
+---
+- Install dependencies using `npm install`
+- Please run this repo using `npm run server & npm start` command.
+- Go to `http://localhost:3000` and explore what the project is about.
+
+
+
 Welcome to TakeMeTour's Job Quest (Autumn 2016 Edition)
 ===
 
